@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Yufeifeio.Yufeifeio">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Yufeifeio.Yufeifeio" alt="visitors" />
+  <a href="https://github.com/Yufeifeio/Yufeifeio">
+    <img src="https://komarev.com/ghpvc/?username=Yufeifeio&label=%E8%AE%BF%E5%AE%A2&color=2C5364&style=flat-square&abbreviated=true" alt="visitors" />
   </a>
   <a href="https://github.com/Yufeifeio?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yufeifeio?style=flat-square&color=2C5364&labelColor=0F2027&label=关注者" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Yufeifeio?style=flat-square&logo=github&logoColor=white&color=2C5364&labelColor=0F2027&label=%E5%85%B3%E6%B3%A8%E8%80%85&cacheSeconds=3600" alt="followers" />
   </a>
   <a href="https://github.com/Yufeifeio/Yufeifeio">
     <img src="https://img.shields.io/badge/个人主页-README-203A43?style=flat-square" alt="profile-readme" />
