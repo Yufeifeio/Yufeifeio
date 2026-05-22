@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Yufeifeio&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=38&desc=Crypto%20Payments%20%7C%20Epay%20%7C%20Epusdt&descAlign=50&descAlignY=58" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Yufeifeio&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=38&desc=加密支付%20%7C%20Epay%20%7C%20Epusdt&descAlign=50&descAlignY=58" alt="banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+My+name+is+Yufeifeio;Building+payment+tools+and+crypto+integrations;Telegram+%40pyufc;0.6TRX+energy+direct+bot+is+live" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=你好+%F0%9F%91%8B+我是+Yufeifeio;专注支付工具与加密集成开发;Telegram+%40pyufc;0.6TRX+能量直达机器人已上线" alt="typing" />
 </div>
 
 <div align="center">
@@ -11,22 +11,22 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Yufeifeio.Yufeifeio" alt="visitors" />
   </a>
   <a href="https://github.com/Yufeifeio?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yufeifeio?style=flat-square&color=2C5364&labelColor=0F2027" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Yufeifeio?style=flat-square&color=2C5364&labelColor=0F2027&label=关注者" alt="followers" />
   </a>
   <a href="https://github.com/Yufeifeio/Yufeifeio">
-    <img src="https://img.shields.io/badge/Profile-README-203A43?style=flat-square" alt="profile-readme" />
+    <img src="https://img.shields.io/badge/个人主页-README-203A43?style=flat-square" alt="profile-readme" />
   </a>
 </div>
 
 ---
 
-## About Me
+## 关于我
 
-- Crypto payment developer focused on `Epay`, `Epusdt`, and practical merchant integrations
-- Building tools that are easy to deploy, easy to extend, and easy to put into production
-- Telegram: [@pyufc](https://t.me/pyufc)
+- 专注 `Epay`、`Epusdt` 与商户实际接入场景的加密支付开发者
+- 持续构建易部署、易扩展、可直接生产落地的支付工具
+- Telegram：[@pyufc](https://t.me/pyufc)
 
-## Direct Link
+## 直达链接
 
 <div align="left">
   <a href="https://t.me/gm_wallet_bot?start=yfff">
@@ -34,7 +34,7 @@
   </a>
 </div>
 
-## Stack
+## 技术栈
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
@@ -51,7 +51,7 @@
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" title="Ethereum" width="36" height="36" /></a>
 </p>
 
-## Activity
+## 活跃概览
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yufeifeio&theme=tokyonight" alt="profile details" />
@@ -61,7 +61,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yufeifeio&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
 
-## Socials
+## 社交链接
 
 <p align="left">
   <a href="https://www.github.com/Yufeifeio" target="_blank" rel="noreferrer">
