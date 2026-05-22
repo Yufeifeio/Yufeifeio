@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Yufeifeio&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=38&desc=加密支付%20%7C%20Epay%20%7C%20Epusdt&descAlign=50&descAlignY=58" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:0F172A,75:1D4ED8,100:38BDF8&text=Yufeifeio&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=38&desc=%E5%8A%A0%E5%AF%86%E6%94%AF%E4%BB%98%20%7C%20Epay%20%7C%20Epusdt&descAlign=50&descAlignY=58&animation=twinkling" alt="banner" />
 </div>
 
 <div align="center">
